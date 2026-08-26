@@ -43,15 +43,5 @@ customization before moving into BC-native integration and CI/CD.
 | [pinoytax-central](https://github.com/aaargei/pinoytax-central) | Modular BC extension automating Philippine taxation end-to-end — unified tax logic, reporting, and posting across Sales, Purchasing, and Finance | AL |
 | [BC-Vendor-Portal](https://github.com/aaargei/BC-Vendor-Portal) / [vendor-management-portal](https://github.com/aaargei/vendor-management-portal) | Vendor-facing web portal for BC — Next.js front end paired with an AL back-end extension | TypeScript · Next.js · AL |
 | [bc-pdf-viewer](https://github.com/aaargei/bc-pdf-viewer) / [pdfviewer](https://github.com/aaargei/pdfviewer) | Embedded and standalone PDF.js viewers for Business Central, the standalone build packaged as a static site for Azure hosting | JavaScript · PDF.js · Azure |
-| [NAV---SAP-Integration-v2](https://github.com/aaargei/NAV---SAP-Integration-v2) | Integration between SAP and Dynamics NAV | C/AL |
-| [NAV---SAP-Reprocessing-Tool](https://github.com/aaargei/NAV---SAP-Reprocessing-Tool) | Controlled re-import, validation, and re-export of SAP interface documents in NAV 2009 without duplicate postings or altering posted data | C/AL |
-| [NAV---Multiple-Billing](https://github.com/aaargei/NAV---Multiple-Billing) | NAV customization letting a single sales invoice be split across multiple billing assignments and entities | C/AL |
-| [NAV---Project-Activate-2.0](https://github.com/aaargei/NAV---Project-Activate-2.0) | Dynamics NAV implementation/customization project | C/AL |
 
 > Most of the above are private repos from client engagements — linked for reference, visible to collaborators.
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aaargei&show_icons=true&theme=default&hide_title=true&hide_border=true" alt="aaargei's GitHub stats" />
-</p>
