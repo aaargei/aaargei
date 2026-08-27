@@ -21,6 +21,6 @@ jobs:
           config_timezone: Asia/Manila
           # Requires METRICS_TOKEN (classic PAT with `repo` + `read:user` scopes)
           # so private repos/contributions can be counted, not just public ones.
-          repositories_visibility: public, private
-          user_indepth: yes
+          repositories_affiliations: owner, collaborator, organization_member
+          base_indepth: yes
           config_display: large
