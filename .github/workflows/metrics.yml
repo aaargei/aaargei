@@ -16,6 +16,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Manila
+          # Requires METRICS_TOKEN (classic PAT with `repo` + `read:user` scopes)
+          # so private repos/contributions can be counted, not just public ones.
+          repositories_visibility: public, private
+          user_indepth: yes
+          config_display: large
