@@ -2,6 +2,10 @@
 <h3 align="center">Business Central / AL Developer · Integration Architecture · Azure</h3>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=aaargei&label=Profile%20Views&color=0078D4&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
 I design and build integration platforms for Microsoft Dynamics 365 Business Central — from AL extensions
 inside BC to the Azure middleware that connects it to the outside world. Background in Dynamics NAV
 customization before moving into BC-native integration and CI/CD.
