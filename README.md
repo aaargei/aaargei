@@ -20,17 +20,43 @@ customization before moving into BC-native integration and CI/CD.
 
 ---
 
-### Tech stack
+## Stack
 
-![AL](https://img.shields.io/badge/AL-Business%20Central-0078D4?style=flat-square)
-![C#](https://img.shields.io/badge/C%23-.NET%208-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure%20Functions-Isolated%20Worker-0062AD?style=flat-square&logo=azurefunctions&logoColor=white)
-![Azure Key Vault](https://img.shields.io/badge/Azure-Key%20Vault-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![OAuth2](https://img.shields.io/badge/Auth-OAuth%202.0-000000?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-Next.js-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-CI%2FCD-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-AL--Go-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![REST/JSON](https://img.shields.io/badge/API-REST%20%2F%20JSON-25A162?style=flat-square)
+<div align="center">
+
+### Business Central & ERP
+![AL](https://img.shields.io/badge/AL-0078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Business Central](https://img.shields.io/badge/Business%20Central-002050.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Dynamics NAV](https://img.shields.io/badge/Dynamics%20NAV-666666.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### Backend & Middleware
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%208-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD.svg?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20%2F%20JSON-25A162.svg?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth%202.0-000000.svg?style=for-the-badge)
+
+### Cloud & Identity
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Key Vault](https://img.shields.io/badge/Key%20Vault-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Managed Identity](https://img.shields.io/badge/Managed%20Identity-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### DevOps & CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![AL-Go](https://img.shields.io/badge/AL--Go%20for%20GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### Adjacent Full-Stack
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,azure,githubactions,powershell,git,github,ts,nextjs,js,vscode,md" />
+</p>
 
 ---
 
